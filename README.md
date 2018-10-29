@@ -3,6 +3,8 @@ Guaranteed non psuedo random number generator, no JavaScript needed.
 
 Check it out: https://ugotsta.github.io/nojs-random
 
+Every time you refresh that page, your browser generates a non psuedo random number. Guaranteed.
+
 ## Usage
 Dead simple, just visit the url above or for local use, clone this repo and run the index.html page in a browser (assuming a server is configured).
 
