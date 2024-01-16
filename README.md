@@ -1,7 +1,7 @@
 # NoJS Random
 Guaranteed non psuedo random number generator, no JavaScript needed.
 
-Check it out: https://ugotsta.github.io/nojs-random
+Check it out: https://R3V1Z3.github.io/nojs-random
 
 Every time you refresh that page, your browser generates a non psuedo random number. Guaranteed.
 
